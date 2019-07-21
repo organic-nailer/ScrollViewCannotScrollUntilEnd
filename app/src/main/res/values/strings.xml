@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ScrollView CannotScrollUntilEnd</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="long_long_sentence">
+        Android is a mobile operating system developed by Google.
+        It is based on a modified version of the Linux kernel and other open source software,
+        and is designed primarily for touchscreen mobile devices such as smartphones and tablets.
+        In addition, Google has developed Android TV for televisions, Android Auto for cars,
+        and Wear OS for wrist watches, each with a specialized user interface.
+        Variants of Android are also used on game consoles, digital cameras, PCs and other electronics.
+        Initially developed by Android Inc., which Google bought in 2005, Android was unveiled in 2007, with the first commercial Android device launched in September 2008.
+        The current stable version is Android 9 "Pie", released in August 2018.
+        Google released the first beta of the next release, Android Q, on Pixel phones in March 2019.
+        The core Android source code is known as Android Open Source Project (AOSP), which is primarily licensed under the Apache License.
+        Android is also associated with a suite of proprietary software developed by Google, called Google Mobile Services (GMS),[10] that frequently comes pre-installed on devices.
+        This includes core apps such as Gmail, the application store/digital distribution platform Google Play and associated Google Play Services development platform,
+        and usually includes the Google Chrome web browser and Google Search app.
+        These apps are licensed by manufacturers of Android devices certified under standards imposed by Google,
+        but AOSP has been used as the basis of competing Android ecosystems such as Amazon.com\'s Fire OS,
+        which use their own equivalents to Google Mobile Services.</string>
+</resources>
